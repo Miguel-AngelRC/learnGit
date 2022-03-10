@@ -1,5 +1,4 @@
 # learnGit
 Aprendiendo git más a fondo
 
-soy mangel real 
-
+Mangel es un colaborador valioso
