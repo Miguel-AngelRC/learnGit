@@ -27,4 +27,6 @@ h1{
    height: auto;
    padding: 0pc;
    border: #222232;
+   box-shadow: white;
+   border-radius: 1px;
 }
