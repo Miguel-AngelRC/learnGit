@@ -9,3 +9,4 @@ Error 3 corregido
 Error 4 
 Error 5
 Error 6
+Error 6

@@ -18,3 +18,15 @@ h2{
 p{
   color: pink;
 }
+
+h1{
+   color: #222232;
+   font: arial;
+   background-color: #222232;
+   width: auto;
+   height: auto;
+   padding: 0pc;
+   border: #222232;
+   box-shadow: white;
+   border-radius: 1px;
+}
